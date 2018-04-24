@@ -3,5 +3,9 @@ public class app {
 
         System.out.println("kkkhfkfkaf");
 
+        System.out.println("kkkhfkfkaf");
+
+        System.out.println("kkkhfkfkaf");
+
     }
 }
